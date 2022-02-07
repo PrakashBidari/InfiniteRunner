@@ -1,0 +1,193 @@
+
+sprite.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 331
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 89
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+bridge
+  rotate: false
+  xy: 2, 17
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 645, 743
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+gem-1
+  rotate: false
+  xy: 645, 728
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+gem-2
+  rotate: false
+  xy: 777, 860
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+gem-3
+  rotate: false
+  xy: 2, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+gem-4
+  rotate: false
+  xy: 74, 74
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+gem-5
+  rotate: false
+  xy: 388, 244
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+grassHalf
+  rotate: false
+  xy: 388, 259
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+
+sprite2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+sprite3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run1
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+sprite4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run2
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+sprite5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run3
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+sprite6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run4
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+sprite7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run5
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+sprite8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run6
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+sprite9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run7
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+sprite10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run8
+  rotate: false
+  xy: 2, 2
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
